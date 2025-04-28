@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Raumus204
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Pyhton
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on HTML, JavaScript, CSS, Postgres SQL, MongoDB
 - 📫 How to reach me Enacra204@gmail.com
 
